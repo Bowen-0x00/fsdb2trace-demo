@@ -1,0 +1,12 @@
+# Ignore FSDB files
+*.fsdb
+*.vcd
+
+# Ignore generated raw logs and output traces
+raw_*.txt
+instr_linear.txt
+dram_linear_trace.txt
+
+# Python cache
+__pycache__/
+*.pyc
